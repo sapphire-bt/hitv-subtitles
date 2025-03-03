@@ -17,12 +17,12 @@ pip install requests
 ## Usage
 Download all subtitles:
 ```bash
-py https://www.gohitv.com/series/vi-vn/love-is-for-suckers
+py get_hitv_subs.py https://www.gohitv.com/series/vi-vn/love-is-for-suckers
 ```
 
 Download subtitles in Vietnamese and English:
 ```bash
-py https://www.gohitv.com/series/vi-vn/love-is-for-suckers vi-VN en-US
+py get_hitv_subs.py https://www.gohitv.com/series/vi-vn/love-is-for-suckers vi-VN en-US
 ```
 
 ## Background
